@@ -15,7 +15,7 @@ This is a chatbot for an e-commerce website that sells tea and coffee. The chatb
 
 ## Project Overview
 
-The chatbot is a conversational AI designed to engage with customers visiting the e-commerce website. It can answer common questions, provide product details, offer recommendations, and handle customer inquiries related to products, payments, delivery, and more. The chatbot is built using Python and relies on natural language processing techniques to understand and respond to user queries.
+The chatbot is a conversational AI designed to engage with customers visiting the e-commerce website. It can answer common questions, provide product details and handle customer inquiries. The chatbot is built using Python and relies on natural language processing techniques to understand and respond to user queries.
 
 ## Project Structure
 
